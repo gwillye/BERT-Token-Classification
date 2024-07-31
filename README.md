@@ -1,12 +1,9 @@
 # BERT-Token-Classification
 
 ## Índice
-
-- [BERT-Token-Classification](#bert-token-classification)
-  - [Índice](#índice)
-  - [Como Usar](#como-usar)
-  - [Descrição](#descrição)
-  - [Dependências](#dependências)
+- [Como Usar](#como-usar)
+- [Descrição](#descrição)
+- [Dependências](#dependências)
 - [Outros Materiais](#outros-materiais)
 
 ## Como Usar
